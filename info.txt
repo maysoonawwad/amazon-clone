@@ -1,0 +1,11 @@
+- set up react app 
+- set up firebase
+- set up react router
+- build the nav bar
+- build the banner
+- build the product compnent
+introduce react context api
+- setup add to basket button
+- build checkout page
+- build log in bage
+- deploy on firebase
